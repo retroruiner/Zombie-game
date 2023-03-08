@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Apocalypse", "Apocalypse\Apocalypse.vcxproj", "{1A5CD49E-C774-429F-8A6C-28AC49100E62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A5CD49E-C774-429F-8A6C-28AC49100E62}.Debug|x64.ActiveCfg = Debug|x64
+		{1A5CD49E-C774-429F-8A6C-28AC49100E62}.Debug|x64.Build.0 = Debug|x64
+		{1A5CD49E-C774-429F-8A6C-28AC49100E62}.Debug|x86.ActiveCfg = Debug|Win32
+		{1A5CD49E-C774-429F-8A6C-28AC49100E62}.Debug|x86.Build.0 = Debug|Win32
+		{1A5CD49E-C774-429F-8A6C-28AC49100E62}.Release|x64.ActiveCfg = Release|x64
+		{1A5CD49E-C774-429F-8A6C-28AC49100E62}.Release|x64.Build.0 = Release|x64
+		{1A5CD49E-C774-429F-8A6C-28AC49100E62}.Release|x86.ActiveCfg = Release|Win32
+		{1A5CD49E-C774-429F-8A6C-28AC49100E62}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {994B8611-6787-45ED-A9B4-FC6AC854A716}
+	EndGlobalSection
+EndGlobal
